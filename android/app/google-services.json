@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399219902026",
+    "project_id": "reminderapp-e3077",
+    "storage_bucket": "reminderapp-e3077.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399219902026:android:68bb7d30be6622a9d108b3",
+        "android_client_info": {
+          "package_name": "com.boilerplatencc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399219902026-qhm17gjnbaf4ae39eafjvopn38ksktgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwquVgMDClRJdLSJPi_zI7O_KR3G02-4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399219902026-qhm17gjnbaf4ae39eafjvopn38ksktgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
